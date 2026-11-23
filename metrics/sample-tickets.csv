@@ -1,0 +1,81 @@
+ticket_id,category,channel,first_reply_minutes,resolution_hours,resolved_within_24h,escalated,csat
+T-1001,Refund,Email,32,25.0,No,Yes,5
+T-1002,Refund,Email,43,5.3,Yes,No,4
+T-1003,Order delay,Chat,4,58.3,No,No,5
+T-1004,Order delay,Email,66,5.5,Yes,No,5
+T-1005,Order delay,Email,156,31.5,No,No,5
+T-1006,Payment issue,Chat,2,8.1,Yes,No,4
+T-1007,Refund,Phone,0,13.3,Yes,No,5
+T-1008,Wrong item,Chat,6,12.7,Yes,No,5
+T-1009,Payment issue,Phone,0,8.7,Yes,No,3
+T-1010,Refund,Email,108,26.5,No,Yes,2
+T-1011,Order delay,Email,120,3.9,Yes,No,2
+T-1012,Payment issue,Phone,1,25.5,No,No,5
+T-1013,Order delay,Email,144,5.6,Yes,No,5
+T-1014,Login problem,Phone,1,44.9,No,No,5
+T-1015,Login problem,Email,37,3.1,Yes,No,5
+T-1016,Login problem,Chat,1,6.4,Yes,No,5
+T-1017,Refund,Email,51,41.4,No,No,5
+T-1018,Wrong item,Chat,3,1.6,Yes,No,5
+T-1019,Wrong item,Phone,2,3.4,Yes,No,5
+T-1020,Order delay,Chat,6,6.4,Yes,No,3
+T-1021,Order delay,Email,122,47.8,No,No,1
+T-1022,Payment issue,Chat,6,15.3,Yes,No,5
+T-1023,Order delay,Email,72,2.0,Yes,No,3
+T-1024,Order delay,Chat,4,3.8,Yes,No,5
+T-1025,Other,Chat,7,3.4,Yes,No,5
+T-1026,Order delay,Phone,2,9.5,Yes,No,5
+T-1027,Payment issue,Chat,3,7.2,Yes,No,5
+T-1028,Refund,Email,170,64.0,No,No,2
+T-1029,Refund,Chat,7,5.7,Yes,No,5
+T-1030,Refund,Email,21,5.5,Yes,No,4
+T-1031,Refund,Chat,8,49.3,No,No,5
+T-1032,Order delay,Chat,2,12.8,Yes,No,4
+T-1033,Wrong item,Chat,8,6.7,Yes,No,2
+T-1034,Refund,Chat,8,21.7,Yes,No,5
+T-1035,Order delay,Email,97,9.4,Yes,No,1
+T-1036,Order delay,Phone,0,4.8,Yes,No,4
+T-1037,Refund,Email,101,11.9,Yes,No,5
+T-1038,Order delay,Email,179,2.3,Yes,No,5
+T-1039,Payment issue,Email,89,9.2,Yes,No,3
+T-1040,Wrong item,Phone,2,50.0,No,No,5
+T-1041,Order delay,Chat,2,2.2,Yes,No,5
+T-1042,Payment issue,Email,51,15.6,Yes,No,2
+T-1043,Login problem,Email,81,5.8,Yes,No,5
+T-1044,Refund,Chat,8,4.8,Yes,No,1
+T-1045,Order delay,Email,149,25.4,No,No,4
+T-1046,Wrong item,Chat,7,8.9,Yes,No,5
+T-1047,Payment issue,Chat,7,25.7,No,Yes,2
+T-1048,Refund,Email,117,24.7,No,Yes,4
+T-1049,Order delay,Email,104,2.6,Yes,No,5
+T-1050,Order delay,Email,141,5.1,Yes,No,5
+T-1051,Payment issue,Email,170,1.8,Yes,No,5
+T-1052,Other,Phone,1,23.7,Yes,No,4
+T-1053,Order delay,Phone,2,37.6,No,No,4
+T-1054,Payment issue,Phone,0,1.5,Yes,No,1
+T-1055,Refund,Chat,1,74.5,No,No,5
+T-1056,Payment issue,Chat,2,35.5,No,No,5
+T-1057,Order delay,Email,72,29.9,No,No,5
+T-1058,Wrong item,Chat,4,3.6,Yes,No,4
+T-1059,Login problem,Email,143,26.2,No,Yes,3
+T-1060,Wrong item,Email,139,39.3,No,No,2
+T-1061,Order delay,Chat,8,16.5,Yes,No,5
+T-1062,Login problem,Email,154,4.2,Yes,No,5
+T-1063,Order delay,Email,147,1.6,Yes,No,4
+T-1064,Refund,Chat,6,13.0,Yes,No,5
+T-1065,Refund,Email,70,28.5,No,Yes,2
+T-1066,Order delay,Phone,1,2.2,Yes,No,4
+T-1067,Order delay,Phone,0,14.1,Yes,No,5
+T-1068,Payment issue,Email,161,2.2,Yes,No,5
+T-1069,Payment issue,Chat,8,37.3,No,No,5
+T-1070,Refund,Chat,7,7.4,Yes,No,5
+T-1071,Order delay,Email,73,5.8,Yes,No,3
+T-1072,Refund,Chat,2,17.4,Yes,No,5
+T-1073,Payment issue,Email,25,23.0,Yes,No,5
+T-1074,Payment issue,Chat,6,48.8,No,No,3
+T-1075,Order delay,Phone,2,28.8,No,No,3
+T-1076,Other,Email,128,21.0,Yes,No,2
+T-1077,Payment issue,Phone,0,4.8,Yes,No,4
+T-1078,Other,Chat,2,1.4,Yes,No,4
+T-1079,Order delay,Chat,5,35.7,No,Yes,3
+T-1080,Login problem,Email,77,42.3,No,No,1
